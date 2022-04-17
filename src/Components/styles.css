@@ -1,0 +1,19 @@
+.info{
+  color:#fff;
+}
+
+.p-image img{
+  border:3px solid #fff;
+  box-shadow:4px 2px 16px rgba(0,0,0,.9);
+  width:80%;
+}
+
+.info hr{
+  border:2px solid #fa8383;
+}
+
+
+.details h3{
+  border-left:6px solid #080033;
+  padding:0 10px
+}
